@@ -1,3 +1,4 @@
+Annexe 2 :
 Annexe de l'activité 1 du cours de Git
 
 Ce fichier est une annexe supplementaire au cas ou ...
